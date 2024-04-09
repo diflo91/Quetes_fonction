@@ -98,25 +98,25 @@ namespace Quetes_boucle
                 double maValeurInt1 = maValeur1;
                 double maValeurInt2 = maValeur2;
 
-                if (monOperation.ToLower() == "add")
+                if (monOperation.ToLower() == "add" || monOperation.ToLower() == "+")
                 {
                     double resultAdd = Add(maValeurInt1, maValeurInt2);
                     stockResult = resultAdd;
                     Console.Clear();
                 }
-                else if (monOperation.ToLower() == "substract")
+                else if (monOperation.ToLower() == "substract" || monOperation.ToLower() == "-")
                 {
                     double resultSubstract = Substract(maValeurInt1, maValeurInt2);
                     stockResult = resultSubstract;
                     Console.Clear();
                 }
-                else if (monOperation.ToLower() == "multiply")
+                else if (monOperation.ToLower() == "multiply" || monOperation.ToLower() == "*" || monOperation.ToLower() == "x")
                 {
                     double resultMultiply = Multiply(maValeurInt1, maValeurInt2);
                     stockResult = resultMultiply;
                     Console.Clear();
                 }
-                else if (monOperation.ToLower() == "divide")
+                else if (monOperation.ToLower() == "divide" || monOperation.ToLower() == "/")
                 {
                     double resultDivide = Divide(maValeurInt1, maValeurInt2);
                     stockResult = resultDivide;
