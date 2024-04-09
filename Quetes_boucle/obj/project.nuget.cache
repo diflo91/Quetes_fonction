@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NIr7dvN1tH973+a2GU2MyTookdzaE4MLrdr3Crg48baP8DVuLl5quY5pBS+T77j2kaYcFtTfZctVS8JXAQIeKA==",
+  "success": true,
+  "projectFilePath": "D:\\Visual studio\\projets\\Quetes_boucle\\Quetes_boucle\\Quetes_boucle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\momo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\momo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\momo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\momo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

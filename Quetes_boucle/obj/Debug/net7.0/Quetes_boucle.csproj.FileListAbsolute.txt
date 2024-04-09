@@ -1,0 +1,14 @@
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\bin\Debug\net7.0\Quetes_boucle.exe
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\bin\Debug\net7.0\Quetes_boucle.deps.json
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\bin\Debug\net7.0\Quetes_boucle.runtimeconfig.json
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\bin\Debug\net7.0\Quetes_boucle.dll
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\bin\Debug\net7.0\Quetes_boucle.pdb
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.AssemblyInfoInputs.cache
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.AssemblyInfo.cs
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.csproj.CoreCompileInputs.cache
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.dll
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\refint\Quetes_boucle.dll
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.pdb
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.genruntimeconfig.cache
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\ref\Quetes_boucle.dll
