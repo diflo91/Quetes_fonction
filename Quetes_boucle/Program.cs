@@ -89,10 +89,9 @@ static void Main(string[] args)
                 string monOperation = Console.ReadLine();
 
 
-                    /* Cette partie est pour la convertion  
-                      * de format des données entrées
-                        * celles-ci est de type string car il est directement saisi par le IS
-                          * et donc je fais le STR to INT
+                    /* Cette partie est pour l'assignation  
+                      * des valeurs des données entrées
+                        *  il est directement saisi par le IS
                             */
 
                     int maValeurInt1 = maValeur1;
