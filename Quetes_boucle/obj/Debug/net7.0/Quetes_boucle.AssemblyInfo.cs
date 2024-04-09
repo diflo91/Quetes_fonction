@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Quetes_boucle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+024010e3d8a248d3e9b33c145ddc97bae8821e7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Quetes_boucle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Quetes_boucle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

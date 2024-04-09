@@ -12,3 +12,4 @@ D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\refint\Que
 D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.pdb
 D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.genruntimeconfig.cache
 D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\ref\Quetes_boucle.dll
+D:\Visual studio\projets\Quetes_boucle\Quetes_boucle\obj\Debug\net7.0\Quetes_boucle.sourcelink.json
